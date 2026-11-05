@@ -2,7 +2,7 @@
 
 ## Site summary
 Site: https://xwdeshenghuo.github.io/free-games-daily/
-Data updated: 2026-11-06
+Data updated: 2026-11-05
 Structured detail records in games.json: 20
 Dataset count field: 105
 Dataset total_worth field: 809.72
