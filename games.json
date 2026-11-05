@@ -1,7 +1,7 @@
 {
  "updated": "2026-11-06",
- "count": 109,
- "total_worth": 832.68,
+ "count": 105,
+ "total_worth": 809.72,
  "games": [
   {
    "title": "Free itch.io Games Bundle",
@@ -124,14 +124,6 @@
    "type": "DLC"
   },
   {
-   "title": "Project Malice (itch.io) Giveaway",
-   "worth": "$9.99",
-   "platforms": "PC, Itch.io, DRM-Free",
-   "end_date": "2026-11-05 23:59:59",
-   "url": "https://www.gamerpower.com/open/project-malice-itch-io-giveaway",
-   "type": "Game"
-  },
-  {
    "title": "Chants of Sennaar (Mobile) Giveaway",
    "worth": "$7.99",
    "platforms": "Android, iOS",
@@ -156,11 +148,19 @@
    "type": "Game"
   },
   {
-   "title": "Roseblight (itch.io) Giveaway",
-   "worth": "$7.99",
-   "platforms": "PC, Itch.io, DRM-Free",
-   "end_date": "2026-11-05 23:59:59",
-   "url": "https://www.gamerpower.com/open/roseblight",
+   "title": "Letter Quest: Grimm's Journey Remastered Steam Key Giveaway",
+   "worth": "$6.99",
+   "platforms": "PC, Steam",
+   "end_date": "2026-11-06 23:59:00",
+   "url": "https://www.gamerpower.com/open/letter-quest-grimm-s-journey-remastered-steam-key-giveaway",
+   "type": "Game"
+  },
+  {
+   "title": "Epic World - Hunt For Quest (Epic Games) Giveaway",
+   "worth": "$6.99",
+   "platforms": "PC, Epic Games Store",
+   "end_date": "2026-11-08 23:59:00",
+   "url": "https://www.gamerpower.com/open/epic-world-hunt-for-quest-epic-games-giveaway",
    "type": "Game"
   }
  ]

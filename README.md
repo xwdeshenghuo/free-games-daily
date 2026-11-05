@@ -1,6 +1,6 @@
 # 🎁 每日限时免费游戏 | Free Games Daily
 
-**现在可领 109 款 · 总价值 $833** — 每天自动更新，全部官方领取链接。
+**现在可领 105 款 · 总价值 $810** — 每天自动更新，全部官方领取链接。
 **Live list: 27+ free games worth $678+** — updated daily, official claim links only.
 
 ## 📲 实时推送 / Get it on Telegram
@@ -25,11 +25,9 @@
 | Dwarven Realms (Steam) Key Giveaway | $9.99 | PC, Steam | N/A | [领取 Claim](https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway) |
 | Deadswitch Combat: Soldier Bundle (Steam) Giveaway | $9.99 | PC, Steam | N/A | [领取 Claim](https://www.gamerpower.com/open/deadswitch-combat-soldier-bundle-steam-giveaway) |
 | Deadswitch Combat: Weapons Skins Steam Key Giveaway | $9.99 | PC, Steam | N/A | [领取 Claim](https://www.gamerpower.com/open/deadswitch-combat-weapons-skins-steam-key-giveaway) |
-| Project Malice (itch.io) Giveaway | $9.99 | PC, Itch.io, DRM-Free | 2026-11-05 23:59:59 | [领取 Claim](https://www.gamerpower.com/open/project-malice-itch-io-giveaway) |
 | Chants of Sennaar (Mobile) Giveaway | $7.99 | Android, iOS | 2026-11-12 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/chants-of-sennaar-mobile-giveaway) |
 | Dark Mystery (Epic Games) Giveaway | $7.99 | PC, Epic Games Store | 2026-11-08 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/dark-mystery-epic-games-giveaway) |
 | Quiztopia: The Ultimate Trivia (Epic Games) Giveaway | $7.99 | PC, Epic Games Store | 2026-11-08 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/quiztopia-the-ultimate-trivia-epic-games-giveaway) |
-| Roseblight (itch.io) Giveaway | $7.99 | PC, Itch.io, DRM-Free | 2026-11-05 23:59:59 | [领取 Claim](https://www.gamerpower.com/open/roseblight) |
 | Letter Quest: Grimm's Journey Remastered Steam Key Giveaway | $6.99 | PC, Steam | 2026-11-06 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/letter-quest-grimm-s-journey-remastered-steam-key-giveaway) |
 | Epic World - Hunt For Quest (Epic Games) Giveaway | $6.99 | PC, Epic Games Store | 2026-11-08 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/epic-world-hunt-for-quest-epic-games-giveaway) |
 | My Darkest Witch (IndieGala) Giveaway | $4.99 | PC, DRM-Free | N/A | [领取 Claim](https://www.gamerpower.com/open/my-darkest-witch-pc-giveaway) |
@@ -38,8 +36,10 @@
 | Leaper (IndieGala) Giveaway | $4.99 | PC, DRM-Free | N/A | [领取 Claim](https://www.gamerpower.com/open/leaper-pc-giveaway) |
 | Fantasy Grounds Dragons NPC Dice Pack Volume 1 Steam Key Giveaway | $4.99 | PC, Steam | N/A | [领取 Claim](https://www.gamerpower.com/open/fantasy-grounds-dragons-npc-dice-pack-volume-1-steam-key-giveaway) |
 | Deadswitch Combat Vehicle Bundle Steam Key Giveaway | $4.99 | PC, Steam | N/A | [领取 Claim](https://www.gamerpower.com/open/deadswitch-combat-vehicle-bundle-steam-key-giveaway) |
-| Buckler 2 (itch.io) Giveaway | $3.99 | PC, Itch.io, DRM-Free | 2026-11-05 23:59:59 | [领取 Claim](https://www.gamerpower.com/open/buckler-2-itch-io-giveaway) |
 | RIDE 6 Welcome Bikes Pack Steam Key Giveaway | $2.99 | PC, Steam | N/A | [领取 Claim](https://www.gamerpower.com/open/ride-6-welcome-bikes-pack-steam-key-giveaway) |
+| Endless Space 2 - Untold Tales DLC (Steam) Giveaway | $2.99 | PC, Steam | N/A | [领取 Claim](https://www.gamerpower.com/open/endless-space-2-untold-tales-dlc-steam-giveaway) |
+| Dual Chroma: Academy Carols (itch.io) Giveaway | $2.00 | PC, Itch.io, DRM-Free | N/A | [领取 Claim](https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway) |
+| Very Realistic Game Dev Simulator (Itch.io) Giveaway | $1.99 | PC, Itch.io, DRM-Free | 2026-11-05 23:59:35 | [领取 Claim](https://www.gamerpower.com/open/very-realistic-game-dev-simulator-itch-io-giveaway) |
 
 ---
 数据源 GamerPower/Epic/Steam/GOG 官方活动 · Data: official giveaways only, no piracy.
