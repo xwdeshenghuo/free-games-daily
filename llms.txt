@@ -1,0 +1,44 @@
+# 白嫖线报局｜免费游戏与限免软件
+
+## Site summary
+Site: https://xwdeshenghuo.github.io/free-games-daily/
+Data updated: 2026-11-06
+Structured detail records in games.json: 20
+Dataset count field: 105
+Dataset total_worth field: 809.72
+
+This site tracks limited-time free games, DLC and software giveaways. Each generated detail page lists the recorded platform, original price, deal type, deadline and claim URL from games.json. Prices, availability and deadlines should be verified on the claim page.
+
+## Primary channel
+Telegram channel: https://t.me/FreeLootDailyHub
+Telegram bot: https://t.me/aishengzhang_bot
+
+## Directory
+All generated directory and detail pages: https://xwdeshenghuo.github.io/free-games-daily/hub.html
+
+## Generated pages
+- https://xwdeshenghuo.github.io/free-games-daily/hub.html
+- https://xwdeshenghuo.github.io/free-games-daily/platform/epic.html
+- https://xwdeshenghuo.github.io/free-games-daily/platform/steam.html
+- https://xwdeshenghuo.github.io/free-games-daily/platform/gog.html
+- https://xwdeshenghuo.github.io/free-games-daily/platform/other.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/free-itch-io-games-bundle.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/idle-champions-of-the-forgotten-realms-morte-s-renown-pack-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/last-room-indiegala-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/best-plumber-indiegala-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/sausage-hunter-indiegala-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/battle-ram-indiegala-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/flotsam-epic-games-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/gigabash-stove-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/causa-voices-of-the-dusk-game-packs-bundle-keys.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/highway-driving-epic-games-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/horse-racing-epic-games-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/gladiator-blades-of-fury-epic-games-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/dwarven-realms-steam-key-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/deadswitch-combat-soldier-bundle-steam-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/deadswitch-combat-weapons-skins-steam-key-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/chants-of-sennaar-mobile-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/dark-mystery-epic-games-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/quiztopia-the-ultimate-trivia-epic-games-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/letter-quest-grimm-s-journey-remastered-steam-key-giveaway.html
+- https://xwdeshenghuo.github.io/free-games-daily/games/epic-world-hunt-for-quest-epic-games-giveaway.html
