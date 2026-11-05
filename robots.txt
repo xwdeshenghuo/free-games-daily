@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xwdeshenghuo.github.io/free-games-daily/sitemap.xml
