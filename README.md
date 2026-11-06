@@ -1,6 +1,6 @@
 # 🎁 每日限时免费游戏清单 | Free Games Daily
 
-**现在可领 105 款 · 总价值 $810** — 每天自动更新，全部官方领取链接。
+**现在可领 104 款 · 总价值 $816** — 每天自动更新，全部官方领取链接。
 **Live list: 27+ free games worth $678+** — updated daily, official claim links only.
 
 ## 📲 实时推送 / Get it on Telegram
@@ -19,6 +19,7 @@
 | Flotsam (Epic Games) Giveaway | $24.99 | PC, Epic Games Store | 2026-11-12 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/flotsam-epic-games-giveaway) |
 | GigaBash (Stove) Giveaway | $24.99 | PC | N/A | [领取 Claim](https://www.gamerpower.com/open/gigabash-pc-giveaway) |
 | Causa, Voices of the Dusk Game Packs Bundle Keys | $14.00 | PC | N/A | [领取 Claim](https://www.gamerpower.com/open/causa-voices-of-the-dusk-game-packs-bundle-keys) |
+| GMH - Good Morning Human (Epic Games) Giveaways | $9.99 | PC, Epic Games Store | 2026-11-08 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/gmh-good-morning-human-epic-games-giveaways) |
 | Highway Driving (Epic Games) Giveaway | $9.99 | PC, Epic Games Store | 2026-11-08 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/highway-driving-epic-games-giveaway) |
 | Horse Racing (Epic Games) Giveaway | $9.99 | PC, Epic Games Store | 2026-11-08 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/horse-racing-epic-games-giveaway) |
 | Gladiator: Blades of Fury (Epic Games) Giveaway | $9.99 | PC, Epic Games Store | 2026-11-08 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/gladiator-blades-of-fury-epic-games-giveaway) |
@@ -39,7 +40,6 @@
 | RIDE 6 Welcome Bikes Pack Steam Key Giveaway | $2.99 | PC, Steam | N/A | [领取 Claim](https://www.gamerpower.com/open/ride-6-welcome-bikes-pack-steam-key-giveaway) |
 | Endless Space 2 - Untold Tales DLC (Steam) Giveaway | $2.99 | PC, Steam | N/A | [领取 Claim](https://www.gamerpower.com/open/endless-space-2-untold-tales-dlc-steam-giveaway) |
 | Dual Chroma: Academy Carols (itch.io) Giveaway | $2.00 | PC, Itch.io, DRM-Free | N/A | [领取 Claim](https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway) |
-| Very Realistic Game Dev Simulator (Itch.io) Giveaway | $1.99 | PC, Itch.io, DRM-Free | 2026-11-05 23:59:35 | [领取 Claim](https://www.gamerpower.com/open/very-realistic-game-dev-simulator-itch-io-giveaway) |
 
 ---
 数据源 GamerPower/Epic/Steam/GOG 官方活动 · Data: official giveaways only, no piracy.
