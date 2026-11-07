@@ -1,6 +1,6 @@
 # 🎁 每日限时免费游戏清单 | Free Games Daily
 
-**现在可领 104 款 · 总价值 $816** — 每天自动更新，全部官方领取链接。
+**现在可领 103 款 · 总价值 $809** — 每天自动更新，全部官方领取链接。
 **Live list: 27+ free games worth $678+** — updated daily, official claim links only.
 
 ## 📲 实时推送 / Get it on Telegram
@@ -29,7 +29,6 @@
 | Chants of Sennaar (Mobile) Giveaway | $7.99 | Android, iOS | 2026-11-12 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/chants-of-sennaar-mobile-giveaway) |
 | Dark Mystery (Epic Games) Giveaway | $7.99 | PC, Epic Games Store | 2026-11-08 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/dark-mystery-epic-games-giveaway) |
 | Quiztopia: The Ultimate Trivia (Epic Games) Giveaway | $7.99 | PC, Epic Games Store | 2026-11-08 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/quiztopia-the-ultimate-trivia-epic-games-giveaway) |
-| Letter Quest: Grimm's Journey Remastered Steam Key Giveaway | $6.99 | PC, Steam | 2026-11-06 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/letter-quest-grimm-s-journey-remastered-steam-key-giveaway) |
 | Epic World - Hunt For Quest (Epic Games) Giveaway | $6.99 | PC, Epic Games Store | 2026-11-08 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/epic-world-hunt-for-quest-epic-games-giveaway) |
 | My Darkest Witch (IndieGala) Giveaway | $4.99 | PC, DRM-Free | N/A | [领取 Claim](https://www.gamerpower.com/open/my-darkest-witch-pc-giveaway) |
 | Hunting Simulator 3 - Classic American Hunter Pack (Steam) Giveaway | $4.99 | PC, Steam | 2026-11-12 23:59:00 | [领取 Claim](https://www.gamerpower.com/open/hunting-simulator-3-classic-american-hunter-pack-steam-giveaway) |
@@ -40,6 +39,7 @@
 | RIDE 6 Welcome Bikes Pack Steam Key Giveaway | $2.99 | PC, Steam | N/A | [领取 Claim](https://www.gamerpower.com/open/ride-6-welcome-bikes-pack-steam-key-giveaway) |
 | Endless Space 2 - Untold Tales DLC (Steam) Giveaway | $2.99 | PC, Steam | N/A | [领取 Claim](https://www.gamerpower.com/open/endless-space-2-untold-tales-dlc-steam-giveaway) |
 | Dual Chroma: Academy Carols (itch.io) Giveaway | $2.00 | PC, Itch.io, DRM-Free | N/A | [领取 Claim](https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway) |
+| Sharknado VR (Rift) Giveaway | $1.99 | VR | N/A | [领取 Claim](https://www.gamerpower.com/open/sharknado-vr-rift-giveaway) |
 
 ---
 数据源 GamerPower/Epic/Steam/GOG 官方活动 · Data: official giveaways only, no piracy.
